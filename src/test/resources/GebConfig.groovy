@@ -2,7 +2,7 @@ import groovy.json.JsonSlurper
 import io.github.bonigarcia.wdm.ChromeDriverManager
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
-import utils.commonutils
+import content.utils.commonutils
 
 ChromeDriverManager.getInstance().setup()
 

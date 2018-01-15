@@ -1,9 +1,13 @@
-package utils
+package content.utils
 
 import common.BaseTestSpec
 import groovy.json.JsonSlurper
 
 class commonutils {
+
+    static float convertStringPriceToFloat(String price){
+        return Float.valueOf(price.replace("\$", "").replace(",",""))
+    }
 
     static def getDataFromJson(String path) {
         def inputFile = new File(path)
