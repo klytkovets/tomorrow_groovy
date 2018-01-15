@@ -1,0 +1,44 @@
+{
+  "comforter": {
+    "title": "Tomorrow Comforter",
+    "price": 140,
+    "size": "Twin",
+    "type": "",
+    "qty": 1
+  },
+  "drapes": {
+    "title": "Tomorrow Drapes",
+    "price": 55,
+    "size": "95",
+    "type": "Teak",
+    "qty": 1
+  },
+  "mattress": {
+    "title": "Tomorrow Mattress",
+    "price": 990,
+    "size": "Queen",
+    "type": "Medium Firm",
+    "qty": 1
+  },
+  "monitor": {
+    "title": "Tomorrow Sleeptracker® Monitor",
+    "price": 199,
+    "size": "",
+    "type": "Two Person",
+    "qty": 1
+  },
+  "protector": {
+    "title": "Tomorrow Mattress Protector",
+    "price": 85,
+    "size": "Queen",
+    "type": "",
+    "qty": 1
+  },
+  "sheets": {
+    "title": "Tomorrow Sheet Set",
+    "price": 140,
+    "size": "Queen",
+    "type": "",
+    "qty": 1
+  }
+}

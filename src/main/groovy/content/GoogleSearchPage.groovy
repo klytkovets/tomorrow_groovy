@@ -4,7 +4,7 @@ import org.openqa.selenium.By
 import org.openqa.selenium.Keys
 
 class GoogleSearchPage extends Page{
-    static url = "https://www.google.com"
+    static url = "shop"
 
     static at = {searchField.displayed}
 

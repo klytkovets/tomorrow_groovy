@@ -1,0 +1,58 @@
+{
+  "comforter": {
+    "title": "Tomorrow Comforter",
+    "price": 195,
+    "size": "King",
+    "type": "",
+    "qty": 1
+  },
+  "drapes": {
+    "title": "Tomorrow Drapes",
+    "price": 55,
+    "size": "95",
+    "type": "Blue",
+    "qty": 1
+  },
+  "foampillow": {
+    "title": "Tomorrow Memory Foam Pillow",
+    "price": 99,
+    "size": "",
+    "type": "",
+    "qty": 1
+  },
+  "mattress": {
+    "title": "Tomorrow Mattress",
+    "price": 700,
+    "size": "Full",
+    "type": "Medium Soft",
+    "qty": 1
+  },
+  "monitor": {
+    "title": "Tomorrow Sleeptracker® Monitor",
+    "price": 149,
+    "size": "",
+    "type": "One Person",
+    "qty": 1
+  },
+  "plushpillow": {
+    "title": "Tomorrow Plush Pillow",
+    "price": 75,
+    "size": "",
+    "type": "",
+    "qty": 1
+  },
+  "protector": {
+    "title": "Tomorrow Mattress Protector",
+    "price": 95,
+    "size": "King",
+    "type": "",
+    "qty": 1
+  },
+  "sheets": {
+    "title": "Tomorrow Sheet Set",
+    "price": 130,
+    "size": "Full",
+    "type": "",
+    "qty": 1
+  }
+}
